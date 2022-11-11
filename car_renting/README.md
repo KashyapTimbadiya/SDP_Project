@@ -1,6 +1,6 @@
 # Car Rental System
 
-It is Car Rental System. Here Customers Takes Car On rent for particular dates.
+It is Car Rental System. Here Customers Takes Car On rent for particular dates. Flutter based Car Rental management system App | Flutter | Backend Firebase
 
 ## How to setup on your system :- 
 
