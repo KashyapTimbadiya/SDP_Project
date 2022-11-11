@@ -1,16 +1,46 @@
-# car_renting
+# Car Rental System
 
-A new Flutter project.
+It is Car Rental System. Here Customers Takes Car On rent for particular dates.
+
+## How to setup on your system :- 
+
+#### Requirements : 
+ 1. Flutter
+ 2. Android Studio 
+ 3. Emulator/Real Device(Android/IOS)
+
+#### How to install : 
+
+1. Check the Official Docs link for installing Flutter : https://flutter.dev/docs/get-started/install 
+2. Installing Android Studio & Setup  : https://youtu.be/InigFUSiPl8 
+3. or, connect a physical device : https://youtu.be/Gzse_F2AYDs
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to build and run the project
 
-A few resources to get you started if this is your first Flutter project:
+### Setup Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A detailed guide for multiple platforms setup could be find [here](https://flutter.dev/docs/get-started/install/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Setup Project
+
+- Clone this repository using `git clone https://github.com/KashyapTimbadiya/SDP_Project.git`.
+- `cd` into the folder.
+- `flutter pub get` to get all the dependencies.
+- Generate files using Builder Runner (**required**) 
+```
+flutter packages pub run --no-sound-null-safety build_runner build
+```
+
+## Screenshots
+
+
+<p>
+<img src="screenshots/1.jpg" alt="Splash View" width="200">
+<img src="screenshots/2.jpg" alt="Splash View" width="200">
+<img src="screenshots/3.jpg" alt="Splash View" width="200">
+<img src="screenshots/4.jpg" alt="Splash View" width="200">
+<img src="screenshots/5.jpg" alt="Splash View" width="200">
+<img src="screenshots/6.jpg" alt="Splash View" width="200">
+</p>
