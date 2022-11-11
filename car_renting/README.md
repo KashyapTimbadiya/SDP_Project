@@ -28,10 +28,10 @@ A detailed guide for multiple platforms setup could be find [here](https://flutt
 - Clone this repository using `git clone https://github.com/KashyapTimbadiya/SDP_Project.git`.
 - `cd` into the folder.
 - `flutter pub get` to get all the dependencies.
-- Generate files using Builder Runner (**required**) 
-```
-flutter packages pub run --no-sound-null-safety build_runner build
-```
+- YOU NEED ADD APP TO YOUR DATABSE/FIREBASE BEFORE START APLICATION.
+- login and registration using firebase auth : https://youtu.be/q-eJXcm14aU
+- Connection With Firebase(CRUD) :- https://youtu.be/ErP_xomHKTw
+
 
 ## Screenshots
 
@@ -47,4 +47,4 @@ flutter packages pub run --no-sound-null-safety build_runner build
 
 ### Created By:-
 1) [Kashyap Timbadiya](https://github.com/KashyapTimbadiya)
-2) [Khushal Vadher]
+2) Khushal Vadher
